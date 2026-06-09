@@ -1,0 +1,41 @@
+# Day 1 - Unreal C++ Setup
+
+## What I did today
+
+- Installed Unreal Engine 5
+- Installed Visual Studio 2022 with Game development with C++
+- Created a C++ Third Person Unreal project
+- Opened the project in Visual Studio
+- Compiled the project
+- Pressed Play in Unreal
+- Added a C++ debug message on screen
+- Started Git/GitHub tracking
+
+## What I learned
+
+- Unreal C++ projects use Visual Studio to compile code.
+- BeginPlay runs when the actor starts in the game world.
+- GEngine->AddOnScreenDebugMessage can print debug text on screen.
+- Blueprint is not bad. C++ and Blueprint can work together.
+
+## What confused me
+
+- 
+- 
+- 
+
+## Errors I had
+
+- 
+- 
+- 
+
+## How I fixed them
+
+- 
+- 
+- 
+
+## Next small goal
+
+Create the first clean project structure and prepare for camera/movement work.
