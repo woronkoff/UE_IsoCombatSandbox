@@ -1,0 +1,42 @@
+# Day 2 - Project Structure and C++ Basics
+
+## What I did today
+
+- Checked the Unreal project folder structure
+- Confirmed generated folders are ignored by Git
+- Opened the Unreal C++ character class
+- Learned the difference between .h and .cpp files
+- Edited BeginPlay
+- Printed the character name on screen
+- Built and tested the project
+
+## What I learned
+
+- The .h file declares what a class has.
+- The .cpp file defines what the class does.
+- BeginPlay runs when the actor starts playing.
+- Super::BeginPlay() should usually be called first.
+- FString is Unreal's string type.
+- GetName() returns the Unreal object name.
+
+## What confused me
+
+- 
+- 
+- 
+
+## Errors I had
+
+- 
+- 
+- 
+
+## How I fixed them
+
+- 
+- 
+- 
+
+## Next small goal
+
+Start preparing the camera and input direction for an isometric combat sandbox.

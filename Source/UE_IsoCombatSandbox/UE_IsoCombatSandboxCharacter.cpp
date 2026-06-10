@@ -56,11 +56,16 @@ void AUE_IsoCombatSandboxCharacter::BeginPlay()
 
 	if (GEngine)
 	{
+		FString DebugMessage = FString::Printf(
+			TEXT("Day 2: Character spawned: %s"),
+			*GetName()
+		);
+
 		GEngine->AddOnScreenDebugMessage(
 			-1,
 			5.f,
 			FColor::Green,
-			TEXT("Day 1: Unreal C++ project is working.")
+			DebugMessage
 		);
 	}
 

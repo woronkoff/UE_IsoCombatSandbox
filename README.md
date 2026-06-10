@@ -28,3 +28,11 @@ The first prototype focuses only on:
 - Compiled successfully
 - Pressed Play in Unreal
 - Added first C++ debug message
+
+## Day 2
+
+- Checked Unreal project structure
+- Confirmed Git ignores generated Unreal folders
+- Opened the C++ character class
+- Learned basic .h and .cpp separation
+- Added a runtime debug message showing the character name
